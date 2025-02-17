@@ -1,4 +1,4 @@
-##Hi, I'm Chris! 👋
+Hi, I'm Chris! 👋
 I’m an AI/ML enthusiast with a background in dance, community-building, and problem-solving. Currently, I'm deep-diving into machine learning, neural networks, and AI integration—exploring how technology can automate workflows, optimize processes, and create intelligent applications.
 
 What I'm Working On 🚀
