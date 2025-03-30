@@ -1,44 +1,26 @@
-Chris Pasco
-AI Engineer | DanceTech Innovator | Aerospace Automation Expert
+# Chris Pasco  
+**AI Solutions Architect | DanceTech Founder | Ex-Aerospace Engineer**
 
-Building AI That Solves Real Problems:
+## 🔧 Real-World AI Applications  
+**RAG Systems**  
+- Built knowledge bases for dance studio contracts & equipment manuals  
+- Implemented document retrieval for non-English legal/financial queries  
 
-🧠 RAG Systems: Deploying retrieval-augmented generation for dynamic knowledge bases (e.g., legal docs for dance studio contracts, maintenance manuals for aerospace)
+**Enterprise Chatbots**  
+- Deployed LLM assistants for:  
+  - 24/7 multilingual customer support (Spanish/English)  
+  - HR policy navigation & equipment troubleshooting  
 
-🤖 Enterprise Chatbots: Developing LLM-powered assistants for:
+**Process Automation**  
+- Predictive cash flow models using class attendance data  
+- Automated invoice processing for freelance instructors  
 
-Customer service automation (24/7 query handling)
+## 🎯 Current Projects  
+- **Domain-Specific LLMs**: Fine-tuning for creative industries  
+- **Computer Vision**: Dance move classification with OpenPose  
+- **Low-Cost AI Tools**: Studio management bots (LangChain + GPT-4)  
 
-Internal tooling (HR policies, equipment troubleshooting)
-
-📊 Process Optimization: Using ML to:
-
-Predict studio cash flow based on class attendance
-
-Automate invoice parsing for freelance instructors
-
-Background That Informs My AI Work:
-
-💃 Director of Medellín Dance School: Scaled operations using data-driven scheduling (Python + Google Sheets APIs)
-
-✈️ Aerospace Engineer: Automated jet engine diagnostics (Python, C++) at Rolls-Royce/Solar Turbines
-
-Current Focus:
-
-🔍 RAG + Fine-Tuning: Specializing in domain-specific LLMs (legal/creative industries)
-
-🛠️ AI Prototyping: Rapidly testing use cases like:
-
-Dance move classification (OpenPose + transfer learning)
-
-Multilingual studio management bots (LangChain, GPT-4-turbo)
-
-Let’s Build Together:
-
-Open to collaborations at the intersection of AI, art, and engineering
-
-Especially interested in:
-
-Non-English NLP for Latin American markets
-
-Low-cost automation for small businesses
+## 🛠️ Technical Edge  
+```python
+["Python", "TensorFlow", "LangChain", "RAG", "Ollama", 
+ "Google Cloud", "LLM Fine-Tuning", "Process Automation"]
