@@ -1,30 +1,44 @@
-Hi, I'm Chris! 👋
-I’m an AI/ML enthusiast with a background in dance, community-building, and problem-solving. Currently, I'm deep-diving into machine learning, neural networks, and AI integration—exploring how technology can automate workflows, optimize processes, and create intelligent applications.
+Chris Pasco
+AI Engineer | DanceTech Innovator | Aerospace Automation Expert
 
-What I'm Working On 🚀
-Reinforcing ML Fundamentals – Reviewing concepts from Andrew Ng’s specializations on ML & Deep Learning.
-Building My First AI Projects – Starting with a spam detector with an online interface,        followed by an AI-powered chatbot or flashcard generator.
-Expanding My Skills – Exploring transformers, NLP, and AI applications in real-world scenarios.
+Building AI That Solves Real Problems:
 
-What’s Next? 🎯
-Launching real-world AI projects and showcasing them here.
-Diving deeper into NLP, transformers, and deployment strategies.
-Landing freelance work or a contract in AI/ML by applying my skills to meaningful problems.
+🧠 RAG Systems: Deploying retrieval-augmented generation for dynamic knowledge bases (e.g., legal docs for dance studio contracts, maintenance manuals for aerospace)
 
-Let’s Connect!
-I love discussing ML, dance, and tech-driven problem-solving—feel free to reach out!
+🤖 Enterprise Chatbots: Developing LLM-powered assistants for:
 
-<!--
-**BooPasco/BooPasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Customer service automation (24/7 query handling)
 
-Here are some ideas to get you started:
+Internal tooling (HR policies, equipment troubleshooting)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Process Optimization: Using ML to:
+
+Predict studio cash flow based on class attendance
+
+Automate invoice parsing for freelance instructors
+
+Background That Informs My AI Work:
+
+💃 Director of Medellín Dance School: Scaled operations using data-driven scheduling (Python + Google Sheets APIs)
+
+✈️ Aerospace Engineer: Automated jet engine diagnostics (Python, C++) at Rolls-Royce/Solar Turbines
+
+Current Focus:
+
+🔍 RAG + Fine-Tuning: Specializing in domain-specific LLMs (legal/creative industries)
+
+🛠️ AI Prototyping: Rapidly testing use cases like:
+
+Dance move classification (OpenPose + transfer learning)
+
+Multilingual studio management bots (LangChain, GPT-4-turbo)
+
+Let’s Build Together:
+
+Open to collaborations at the intersection of AI, art, and engineering
+
+Especially interested in:
+
+Non-English NLP for Latin American markets
+
+Low-cost automation for small businesses
